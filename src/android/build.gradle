@@ -15,5 +15,5 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.yalantis:ucrop:2.2.1'
+    api 'com.github.yalantis:ucrop:2.2.1'
 }
